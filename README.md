@@ -1,2 +1,2 @@
 # mushrooms
-Matlab code to simulate a structure learning task with a working memory component
+Matlab code to simulate an agent with a working memory component carrying out a structure learning task. 
